@@ -1,1 +1,1 @@
-This app is used on PC to launch snowrunner then, after a short delay, FluffierKittens excellent SnowRunner-UI-Changes mod (https://github.com/FluffierKittens/SnowRunner-UI-Changes) which has to be started when snowrunner is already running
+This script is used on PC to launch snowrunner then, after a short delay, FluffierKittens excellent SnowRunner-UI-Changes mod (https://github.com/FluffierKittens/SnowRunner-UI-Changes) which has to be started when snowrunner is already running
